@@ -1,11 +1,14 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gem "jekyll"
 
 gem "jekyll-theme-chirpy", "~> 5.6", ">= 5.6.1"
 
-group :test do
-  gem "html-proofer", "~> 3.18"
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+  gem 'jekyll-feed'
+  gem 'jekyll-seo-tag'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
