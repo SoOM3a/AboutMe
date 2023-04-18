@@ -20,7 +20,7 @@ timezone: Africa/Cairo
 
 title: Abdelrahman Esmail # the main title
 
-tagline: More information and highlights about my career # it will display as the sub-title
+tagline: you can not see me, can you? # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   you can not see me, can you?
@@ -42,10 +42,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/SoOM3a # change to your twitter homepage
-    - https://github.com/SoOM3a/ # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/AbdelrahmanMohamedEsmail/
-    - https://www.linkedin.com/in/abdelrahmanesmail/
+    - https://github.com/SoOM3a # change to your github homepage
+    - https://www.facebook.com/AbdelrahmanMohamedEsmail
+    - https://www.linkedin.com/in/abdelrahmanesmail
 
 google_site_verification: # fill in to your verification string
 
